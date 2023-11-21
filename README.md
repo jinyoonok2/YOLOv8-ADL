@@ -1,9 +1,8 @@
 # YOLOv8-ADL
 This project is implemented system based on the paper: “Automated Data Labeling for Object Detection via Iterative Instance Segmentation” IEEE International Conference on Machine Learning and Applications (IEEE ICMLA 2023), Conference Date: Dec 15-17, 2023.
+![Camera Ready Paper](YOLOv8_ADL_ICMLA_2023_Camera_Ready)
 
-
-## YOLOv8-ADL implementation code
-
+## Paper Information
 “Automated Data Labeling for Object Detection via Iterative Instance Segmentation”
 IEEE International Conference on Machine Learning and Applications (IEEE ICMLA 2023), Conference Date: Dec 15-17, 2023.
 •	As the First Author, developed and programmed an auto-labeling system using YOLOv8 with its instance segmentation technique, integrating with uncertainty-based correction algorithm and iterative training to reduce the need for manual labeling
@@ -20,13 +19,14 @@ Weights: [https://drive.google.com/file/d/1u1Py1oKQxPzCRwT7BDDyA8wXUkZM2PTi/view
 First, navigate to the directory where you want to store the project in the terminal. Then, clone the project repository:
 
 ```
-git clone https://github.com/jinyoonok2/CMPSC487-Project-2.git
-cd CMPSC487-Project-2
+git clone https://github.com/jinyoonok2/YOLOv8-ADL.git
+cd YOLOv8-ADL
 ```
 or you can use github Desktop to alternate this process.
 
 ## Images
 ![Description of Image1](github_images/1.png)
-
+![Description of Image1](github_images/2.png)
+![Description of Image1](github_images/3.png)
 
 Thank you for reading.

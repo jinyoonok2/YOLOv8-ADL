@@ -1,6 +1,6 @@
 # YOLOv8-ADL
-This project is implemented system based on the paper: “Automated Data Labeling for Object Detection via Iterative Instance Segmentation” IEEE International Conference on Machine Learning and Applications (IEEE ICMLA 2023), Conference Date: Dec 15-17, 2023.
-![Camera Ready Paper](paper/YOLOv8_ADL_ICMLA_2023_Camera_Ready.pdf)
+This project is implemented system based on the paper: “Automated Data Labeling for Object Detection via Iterative Instance Segmentation” IEEE International Conference on Machine Learning and Applications (IEEE ICMLA 2023), Conference Date: Dec 15-17, 2023.  
+[Camera Ready Paper](paper/YOLOv8_ADL_ICMLA_2023_Camera_Ready.pdf)
 
 ## Paper Information
 “Automated Data Labeling for Object Detection via Iterative Instance Segmentation”

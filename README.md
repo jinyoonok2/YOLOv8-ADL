@@ -13,8 +13,8 @@ IEEE International Conference on Machine Learning and Applications (IEEE ICMLA 2
 ## Dataset and Weights Record
 **Python Version: 3.11**
 
-Dataset: [https://drive.google.com/file/d/1I50YT0P73zL45DPrx8pa9_ftlWiHrddC/view?usp=drive_link](https://drive.google.com/file/d/1I50YT0P73zL45DPrx8pa9_ftlWiHrddC/view?usp=drive_link)
-\n Weights: [https://drive.google.com/file/d/1u1Py1oKQxPzCRwT7BDDyA8wXUkZM2PTi/view?usp=drive_link](https://drive.google.com/file/d/1u1Py1oKQxPzCRwT7BDDyA8wXUkZM2PTi/view?usp=drive_link)
+Dataset: [https://drive.google.com/file/d/1I50YT0P73zL45DPrx8pa9_ftlWiHrddC/view?usp=drive_link](https://drive.google.com/file/d/1I50YT0P73zL45DPrx8pa9_ftlWiHrddC/view?usp=drive_link)  
+Weights: [https://drive.google.com/file/d/1u1Py1oKQxPzCRwT7BDDyA8wXUkZM2PTi/view?usp=drive_link](https://drive.google.com/file/d/1u1Py1oKQxPzCRwT7BDDyA8wXUkZM2PTi/view?usp=drive_link)
 
 ## Clone the Repository
 First, navigate to the directory where you want to store the project in the terminal. Then, clone the project repository:
